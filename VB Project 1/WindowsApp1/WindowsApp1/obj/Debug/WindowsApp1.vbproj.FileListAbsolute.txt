@@ -1,0 +1,12 @@
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmIceCreamStore.resources
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\louis_magdaleno\Desktop\VB Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
